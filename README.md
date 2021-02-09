@@ -1,10 +1,6 @@
-# 📽 Recriando a Netflix
-<p align="center">🚀 Desafio proposto pelo bootcamp da Digital Innovaion One</p>
-
-![](https://assets.nflxext.com/ffe/siteui/allow-robots/contentSampling/seo-watch-free-link-preview.jpg)
-<p align="center">
-![](https://img.shields.io/github/forks/claudianopl/Interface-Netflix) ![](https://img.shields.io/github/issues/claudianopl/Interface-Netflix) ![](https://img.shields.io/github/stars/claudianopl/Interface-Netflix)
-</p>
+<h1 align="center"><img alt="Netflix" title="#Netflix" src="https://assets.nflxext.com/ffe/siteui/allow-robots/contentSampling/seo-watch-free-link-preview.jpg" style="width:100%;"/></h1>
+<h1 align="center">📽 Recriando a Netflix</h1>
+<p align="center">🚀 Desafio proposto pelo bootcamp da Digital Innovaion One</p><p align="center"><img alt="Forks" src='https://img.shields.io/github/forks/claudianopl/Interface-Netflix'> <img alt="Issues" src='https://img.shields.io/github/issues/claudianopl/Interface-Netflix'> <img alt="Starts" src='https://img.shields.io/github/stars/claudianopl/Interface-Netflix'></p>
 
 ## Índice
 
